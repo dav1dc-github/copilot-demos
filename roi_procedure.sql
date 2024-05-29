@@ -1,2 +1,0 @@
-# Stored Procedure Definition
-
