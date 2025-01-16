@@ -9,6 +9,7 @@ def add_arrays(arr1, arr2):
         raise ValueError("Array 2 contains a non-integer")
     return pn.add(arr1, arr2)
 
+
 # function to concatenate together all the string values contained in two input arrays using the pynum library
 def concat_arrays(arr1, arr2):
     import pynum as pn
